@@ -7,18 +7,18 @@ The analysis was performed using **Microsoft SQL Server** for data cleaning and 
 ---
 ## BUSINESS PROBLEMS
 ### 1. Why are customers raising complaints?
-•	Identify products with the highest complaints.
-•	Discover the most common complaint issues.
-•	Find companies receiving the most complaints.
-•	Analyze complaint trend over time.
+### •	Identify products with the highest complaints.
+### •	Discover the most common complaint issues.
+### •	Find companies receiving the most complaints.
+### •	Analyze complaint trend over time.
 ### 2.  Are companies responding efficiently?
-•	Measure timely response rate?
-•	Compare company timely response performance.
-•	Analyze company responses to customers.
-•	Evaluate complaint submission channels.
+### •	Measure timely response rate?
+### •	Compare company timely response performance.
+### •	Analyze company responses to customers.
+### •	Evaluate complaint submission channels.
 ### 3. Which regions require more attention?
-•	Identify states with the highest complaint volume.
-•	Compare complaint distribution across the United States.
+### •	Identify states with the highest complaint volume.
+### •	Compare complaint distribution across the United States.
 ---
 
 ## tools used

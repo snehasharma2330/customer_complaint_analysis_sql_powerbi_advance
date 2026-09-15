@@ -53,22 +53,22 @@ The dataset contains customer complaints related to financial products such as m
 
 ## SQL BUSINESS ANALYSIS
 ### Measure taken to solve the business problem such as:
-•	Which products receive the most complaints?
-•	Which issue occur most frequently?
-•	Top 10 companies by complaint volume
-•	Complaint trend by year and month
-•	Complaint distribution by state
-•	Percentage of timely responses by company
-•	Complaint submission channel analysis
-•	Companies with the best response performance
-•	State-wises complaint ranking
-•	
+### •	Which products receive the most complaints?
+### •	Which issue occur most frequently?
+### •	Top 10 companies by complaint volume
+### •	Complaint trend by year and month
+### •	Complaint distribution by state
+### •	Percentage of timely responses by company
+### •	Complaint submission channel analysis
+### •	Companies with the best response performance
+### •	State-wises complaint ranking
+
 ---
 
 
 
 ## POWER BI DASHBOARD
-## COMPLAINT OVERVIEW
+### COMPLAINT OVERVIEW
 ## KPI Cards
 •	Total Complaints
 •	Total Products

@@ -129,5 +129,5 @@ The dataset contains customer complaints related to financial products such as m
 -	Focus on customer support resources on high complaint states such as CA.
 -	Monitor complaint trends regularly to identify emerging issues early.   
 
-## Author - Sneha Sharma
+### Author - Sneha Sharma
 LinkedIn: https://www.linkedin.com/in/12sneha-sharma/

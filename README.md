@@ -46,7 +46,7 @@ The dataset contains customer complaints related to financial products such as m
 ### •	Removed leading/trailing spaces
 ### •	Standardized categorical values 
 ### (using DISTINCT ())
-## excel
+## Excel
 ### •	Validate DATE fields
 ### (using TEXT TO COLUMNS to change into date format)
 ---

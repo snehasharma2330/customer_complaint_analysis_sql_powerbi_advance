@@ -21,9 +21,9 @@ The analysis was performed using **Microsoft SQL Server** for data cleaning and 
 ### •	Compare complaint distribution across the United States.
 ---
 
-## tools used
-•	SQL Server
-•	Power BI
+## Tools used
+### •	SQL Server
+### •	Power BI
 ---
 
 ## Dataset Overview
@@ -35,20 +35,20 @@ The dataset contains customer complaints related to financial products such as m
 
 ## DATA CLEANING (SQL SERVER)
 ### The following data quality checks were performed: -
-•	Checked duplicate Complaint IDs 
-(using filter in group by having count >1)
-•	Checked missing values
-(reviewed in each columns using IS NULL ())
-•	Replaced missing State with **Unknown**
-•	Replaced missing ZIP Codes with **Unknown**
-•	Replaced missing Company Public Response with **No Public Response**
-•	Retained missing values in Sub-product and Sub-issue were appropriate
-•	Removed leading/trailing spaces
-•	Standardized categorical values 
-(using DISTINCT ())
+### •	Checked duplicate Complaint IDs 
+### (using filter in group by having count >1)
+### •	Checked missing values
+### (reviewed in each columns using IS NULL ())
+### •	Replaced missing State with **Unknown**
+### •	Replaced missing ZIP Codes with **Unknown**
+### •	Replaced missing Company Public Response with **No Public Response**
+### •	Retained missing values in Sub-product and Sub-issue were appropriate
+### •	Removed leading/trailing spaces
+### •	Standardized categorical values 
+### (using DISTINCT ())
 ## excel
-•	Validate DATE fields
-(using TEXT TO COLUMNS to change into date format)
+### •	Validate DATE fields
+### (using TEXT TO COLUMNS to change into date format)
 ---
 
 ## SQL BUSINESS ANALYSIS
